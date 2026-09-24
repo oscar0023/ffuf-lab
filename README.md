@@ -195,21 +195,8 @@ ffuf-lab/
 │
 ├── README.md
 │
-├── FFUF_Lab_Report.pdf
-│
-├── screenshots/
-│   ├── installation/
-│   ├── directory-enumeration/
-│   ├── filtering/
-│   ├── recursive-fuzzing/
-│   ├── post-fuzzing/
-│   └── virtual-hosts/
-│
-└── commands/
-    └── commands.md
+└── FFUF_Lab_Report.pdf
 ```
-
-> The exact structure can be adapted depending on how the screenshots and commands are organized in the final repository.
 
 ---
 
