@@ -46,7 +46,7 @@ The main objectives of this lab are to:
 | **FFUF**               | Web fuzzing and content discovery       |
 | **SecLists**           | Wordlists for enumeration and fuzzing   |
 | **Linux / Kali Linux** | Lab environment                         |
-| **Web application**    | Target used for the practical exercises |
+| **Web application**    | ffuf-lab                                |
 
 ---
 
